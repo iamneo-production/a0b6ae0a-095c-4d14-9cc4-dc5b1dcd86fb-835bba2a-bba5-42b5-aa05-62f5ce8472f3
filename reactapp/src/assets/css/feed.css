@@ -1,0 +1,58 @@
+/* FeedbackForm.css */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+.feed1 {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 150px;
+    font-family: 'Playfair Display', serif;
+    color: white;
+  }
+  
+  .feed2 {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f4f4f456;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  }
+  
+  .feed2 label {
+    display: block;
+    
+    margin-bottom: 5px;
+    padding-bottom: 50px;
+    font-family: 'Playfair Display', serif;
+    color: rgb(27, 2, 2);
+  }
+  
+  .feed2 textarea,
+  .feed2 input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  .feed3 {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .feed4 {
+    background-color: #007bff;
+    color: #000000;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .feed4:hover {
+    background-color: #0056b3;
+  }
+  
+  .feed-email{
+    color: black;
+  }

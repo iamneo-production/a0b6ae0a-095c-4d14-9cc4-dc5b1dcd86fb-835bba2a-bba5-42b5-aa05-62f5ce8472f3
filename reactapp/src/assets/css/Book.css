@@ -1,0 +1,23 @@
+.success-page {
+    text-align: center;
+    padding: 20px;
+    background-color: #f2f2f255;
+    border-radius: 5px;
+    margin: 20px auto;
+    width: 80%;
+    max-width: 600px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin-top: 200px;
+  }
+  
+  .success-page h2 {
+    color: #4caf50;
+    font-size: 20px;
+  }
+  
+  .success-page p {
+    font-size: 18px;
+  }
+  
+  /* You can adjust the styles as needed to match your application's design. */
+  

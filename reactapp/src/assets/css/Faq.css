@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Croissant+One&family=Oswald:wght@300&family=Poppins:wght@700&display=swap');
+.container07{
+    padding-left: 500px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 150px;
+    color: white;
+    
+}
+.myfaq{
+    padding-top: 50px;
+    font-size: 15px;
+    font-family: 'Croissant One', cursive;
+    font-weight: bold;
+    color: white;
+   
+}
+.faqh {
+    padding-bottom: 30px;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+.myp{
+   
+    font-family: 'Oswald', sans-serif;
+}
+.ii{
+    margin-top: -150px;
+}
+.back-faq{
+    margin-top: 50px;
+    margin-left: 200px;
+    padding: 15px;
+}
