@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Croissant+One&display=swap');
+.terms{
+    padding-left: 550px;
+    font-family: 'Oswald', sans-serif;
+    padding-top: 25px;
+}
+.con{
+    padding-left: 300px;
+}
+.p1{
+    padding-left:250px;
+    font-size: 20px;
+}
+.h3p{
+   font-size: 20px;
+   font-family: 'Croissant One', cursive;
+}

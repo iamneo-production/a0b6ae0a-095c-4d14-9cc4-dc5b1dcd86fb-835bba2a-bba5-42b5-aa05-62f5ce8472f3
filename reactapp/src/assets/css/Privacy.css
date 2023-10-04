@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+.privacy-policy-container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-top: 80px;
+    margin-left: 300px;
+    padding-bottom: 40px
+    
+}
+
+.privacy-policy-container h1 {
+    font-size: 28px;
+    margin-bottom: 20px;
+    font-family: 'Dela Gothic One', cursive;
+}
+
+.privacy-policy-container h2 {
+    font-size: 24px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-family: 'Dela Gothic One', cursive;
+}
+
+.privacy-policy-container p {
+    font-size: 16px;
+    line-height: 1.5;
+    font-family: 'Raleway', sans-serif;
+}
+
+.privacy-policy-container ul {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    list-style-type: disc;
+    padding-left: 20px;
+    font-family: 'Raleway', sans-serif;
+}
+.oo{
+    margin-top: -50px;
+}

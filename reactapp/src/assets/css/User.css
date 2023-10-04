@@ -1,0 +1,124 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+.live-head{
+    padding-top: 150px;
+    padding-left: 200px;
+    font-size: 40px;
+    color: white;
+    font-family: 'Libre Baskerville', serif;
+
+  }
+
+  .eve-container{
+    color: #000;
+  }
+
+  .eve1{
+    position: absolute;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.47);
+    margin-top: 100px;
+    margin-left: 300px;
+    padding: 50px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    margin-right: 900px;
+    font-size: 20px;
+    justify-content: space-around;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  .eve2{
+    position: absolute;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.47);
+    margin-top: 100px;
+    margin-left: 700px;
+    padding: 50px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    margin-right: 500px;
+    font-size: 20px;
+    justify-content: space-around;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  .eve3{
+    position: absolute;
+    text-align: center;
+    background-color:rgba(255, 255, 255, 0.47) ;
+    margin-top: 100px;
+    margin-left: 1100px;
+    padding: 50px;
+    padding-top: 60px;
+    padding-bottom: 80px;
+    margin-right:150px;
+    font-size: 20px;
+    justify-content: space-around;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  .user1{
+    position: absolute;
+    border: none;
+   color: #130303;
+    background-color: rgb(25, 25, 189);
+    margin-left: 290px;
+    font-weight: bold;
+    margin-bottom: 130px; /* Increased margin to move the button down */
+    bottom: -100px;
+    left: -220px;
+    padding: 10px;
+    border-radius: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    align-items: center;
+    justify-content: center;
+   
+}
+.user2{
+    position: absolute;
+    border: none;
+   color: #130303;
+    background-color: rgb(25, 25, 189);
+    margin-left: 290px;
+    font-weight: bold;
+    margin-bottom: 130px; /* Increased margin to move the button down */
+    bottom: -100px;
+    right: 65px;
+    padding: 10px;
+    border-radius: 80px;
+    padding-left: 50px;
+    padding-right: 50px;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+.user3{
+    position: absolute;
+    border: none;
+   color: #130303;
+    background-color: rgb(25, 25, 189);
+    margin-left: 290px;
+    font-weight: bold;
+    margin-bottom: 130px; /* Increased margin to move the button down */
+    bottom: -100px;
+    right: 65px;
+    padding: 10px;
+    border-radius: 80px;
+    padding-left: 50px;
+    padding-right: 50px;
+    align-items: center;
+    justify-content: center;
+   
+}
+.qq{
+  margin-bottom: -800px;
+}

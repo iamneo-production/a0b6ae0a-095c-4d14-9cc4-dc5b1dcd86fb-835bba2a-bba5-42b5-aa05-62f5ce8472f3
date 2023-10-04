@@ -1,0 +1,14 @@
+.topbutton{
+    padding: 10px;
+    margin-left: 800px;
+    font-weight: bold;
+    font-size: 30px;
+    background-color: rgba(240, 248, 255, 0.278);
+}
+.topbutton2{
+    padding: 10px;
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 100px;
+    background-color: rgba(240, 248, 255, 0.278);
+}
